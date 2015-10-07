@@ -1,7 +1,0 @@
-{
-  "name": "Adafruit-BNO055",
-  "author": "Kevin (KTOWN) Townsend",
-  "license": "Adafruit Industries",
-  "version": "1.1",
-  "description": "Library for the Adafruit BNO055 Absolute Orientation Sensor"
-}
